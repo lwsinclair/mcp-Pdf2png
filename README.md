@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/truaxki-mcp-pdf2png-badge.png)](https://mseep.ai/app/truaxki-mcp-pdf2png)
+
 # PDF to PNG MCP Server
 
 A Model Context Protocol (MCP) server that provides PDF to PNG conversion capabilities. This server allows you to convert PDF documents into PNG images with a simple MCP tool call.
